@@ -1,0 +1,26 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "npm",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/real-folkblues/lc2024.git"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "author": "Maru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/real-folkblues/lc2024/issues"
+  },
+  "homepage": "https://github.com/real-folkblues/lc2024#readme"
+}
